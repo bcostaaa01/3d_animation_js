@@ -48,3 +48,8 @@ body {
     border-radius: 50%;
     z-index: 1;
 }
+
+.info h1 {
+    font-size: 3rem;
+}
+
