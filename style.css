@@ -26,7 +26,7 @@ body {
     min-height: 80vh;
     width: 35rem;
     border-radius: 30px;
-    padding: 0rem, 5rem;
+    padding: 0rem 5rem;
     box-shadow: 0 20px 20px rgba(0,0,0,0.2), 0px 0px 50px rgba(0,0,0,0.2);
 }
 
@@ -36,11 +36,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 
 .phone img{
     width: 20rem;
     z-index: 2;
+    transition: all 0.75s ease-out;
 }
 
 .circle {
@@ -54,6 +56,7 @@ body {
 
 .info h1 {
     font-size: 3rem;
+    transition: all 0.75s ease-out;
 }
 
 .info h3 {
@@ -61,11 +64,13 @@ body {
     padding: 2rem 0rem;
     color: #585858;
     font-weight: lighter;
+    transition: all 0.75s ease-out;
 }
 
 .storages {
     display: flex;
     justify-content: space-between;
+    transition: all 0.75s ease-out;
 }
 
 .storages button {
@@ -86,6 +91,7 @@ button.active {
 
 .purchase {
     margin-top: 5rem;
+    transition: all 0.75s ease-out;
 }
 
 .purchase button {
