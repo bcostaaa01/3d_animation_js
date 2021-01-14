@@ -2,6 +2,10 @@
 
 const card = document.querySelector('.card');
 const container = document.querySelector('.container');
+// items
+const title = document.querySelector('.title');
+
+
 
 // moving animation event
 
