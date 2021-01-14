@@ -13,7 +13,6 @@ body {
 }
 
 .container {
-    background-color: lightblue;
     width: 50%;
     display: flex;
     justify-content: center;
@@ -23,5 +22,8 @@ body {
 .card {
     min-height: 80vh;
     width: 35rem;
-    background: lightcoral;
+    border-radius: 30px;
+    padding: 0rem, 5rem;
+    box-shadow: 0 20px 20px rgba(0,0,0,0.2), 0px 0px 50px rgba(0,0,0,0.2);
 }
+
