@@ -80,3 +80,8 @@ button.active {
     background: lightgrey;
     color: white;
 }
+
+.purchase {
+    margin-top: 5rem;
+}
+
