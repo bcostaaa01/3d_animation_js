@@ -11,3 +11,9 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.container {
+    background-color: lightblue;
+    width: 50%;
+}
+
