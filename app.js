@@ -24,6 +24,10 @@ container.addEventListener('mouseenter', (e) => {
     card.style.transition = 'none';
     // popout effect
     title.style.transform = 'translateZ(150px)';
+    phone.style.transform = 'translateZ(200px) rotateZ(-45deg)';
+    description.style.transform = 'translateZ(125px)';
+    storages.style.transform = 'translateZ(100px)';
+    purchase.style.transform = 'translateZ(75px)';
 })
 
 // animate card out
