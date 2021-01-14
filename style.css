@@ -15,5 +15,13 @@ body {
 .container {
     background-color: lightblue;
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.card {
+    min-height: 80vh;
+    width: 35rem;
+    background: lightcoral;
+}
