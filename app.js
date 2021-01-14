@@ -7,6 +7,7 @@ const title = document.querySelector('.title');
 const phone = document.querySelector('.phone img');
 const purchase = document.querySelector('.purchase button');
 const description = document.querySelector('.info h3');
+const storages = document.querySelector('.storages');
 
 
 // moving animation event
