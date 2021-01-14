@@ -59,3 +59,9 @@ body {
     color: #585858;
     font-weight: lighter;
 }
+
+.storages {
+    display: flex;
+    justify-content: space-between;
+
+}
