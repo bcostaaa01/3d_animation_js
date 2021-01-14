@@ -4,8 +4,9 @@ const card = document.querySelector('.card');
 const container = document.querySelector('.container');
 // items
 const title = document.querySelector('.title');
-const purchase = document.querySelector('.purchase');
-
+const phone = document.querySelector('.phone img');
+const purchase = document.querySelector('.purchase button');
+const description = document.querySelector('.info h3');
 
 
 // moving animation event
