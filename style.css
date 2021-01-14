@@ -75,3 +75,8 @@ body {
     font-weight: bold;
     color: #585858;
 }
+
+button.active {
+    background: lightgrey;
+    color: white;
+}
