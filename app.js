@@ -4,6 +4,7 @@ const card = document.querySelector('.card');
 const container = document.querySelector('.container');
 // items
 const title = document.querySelector('.title');
+const purchase = document.querySelector('.purchase');
 
 
 
