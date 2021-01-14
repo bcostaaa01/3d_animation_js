@@ -27,3 +27,14 @@ body {
     box-shadow: 0 20px 20px rgba(0,0,0,0.2), 0px 0px 50px rgba(0,0,0,0.2);
 }
 
+
+.phone {
+    min-height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.phone img{
+    width: 20rem;
+}
