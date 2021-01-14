@@ -37,4 +37,8 @@ container.addEventListener('mouseleave', (e) => {
     card.style.transform = `rotateY(0deg) rotateX(0deg)`;
     // popback effect
     title.style.transform = 'translateZ(0px)';
+    phone.style.transform = 'translateZ(0px) rotateZ(0deg)';
+    description.style.transform = 'translateZ(0px)';
+    storages.style.transform = 'translateZ(0px)';
+    purchase.style.transform = 'translateZ(0px)';
 })
